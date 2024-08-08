@@ -5,6 +5,8 @@
 # Calculator
 A simple web-based calculator application.
 
+# check the project files at ; https://github.com/roseTadiwa/LGMVIP-Web-Task-4/tree/master
+
 # Features
 Basic arithmetic operations (addition, subtraction, multiplication, division)
 Display to show the current calculation
